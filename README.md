@@ -30,6 +30,7 @@ The **Netflix Data Files** repository provides a structured approach to understa
 - Rating
 - Duration
 - Description
+- Type
 
 Using Python, the data is processed and analyzed to uncover patterns, trends, and insights. Additionally, machine learning algorithms are used to generate personalized recommendations.
 
