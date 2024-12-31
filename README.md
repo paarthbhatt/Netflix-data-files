@@ -57,16 +57,15 @@ Using Python, the data is processed and analyzed to uncover patterns, trends, an
   - **Matplotlib**
   - **Seaborn**
   - **Scikit-learn**
-
-- **Jupyter Notebook**
-- **CSV Data Files**
+  - **Jupyter Notebook**
+  - **CSV Data Files**
 
 ## Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/netflix-data-files.git
+   git clone https://github.com/paarthbhatt/netflix-data-files.git
    ```
 
 2. Navigate to the project directory:
