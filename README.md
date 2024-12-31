@@ -32,7 +32,7 @@ The **Netflix Data Files** repository provides a structured approach to understa
 - Description
 - Type
 
-Using Python, the data is processed and analyzed to uncover patterns, trends, and insights. Additionally, machine learning algorithms are used to generate personalized recommendations.
+Using Python, the data is processed and analyzed to uncover patterns, trends, and insights. Additionally, machine learning algorithms are used to generate personalized recommendations and analytics.
 
 ## Features
 
@@ -51,12 +51,12 @@ Using Python, the data is processed and analyzed to uncover patterns, trends, an
 
 ## Technologies Used
 
-- **Python**
-  - Pandas
-  - NumPy
-  - Matplotlib
-  - Seaborn
-  - Scikit-learn
+  - **Python**
+  - **Pandas**
+  - **NumPy**
+  - **Matplotlib**
+  - **Seaborn**
+  - **Scikit-learn**
 
 - **Jupyter Notebook**
 - **CSV Data Files**
