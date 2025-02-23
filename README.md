@@ -1,6 +1,6 @@
 # Netflix Data Files
 
-This repository contains a comprehensive dataset and Python-based analysis for Netflix series and movies. The project focuses on exploring, analyzing, and generating insights from Netflix's content catalog using **data analysis** and **machine learning** techniques. All the work is implemented in **Jupyter Notebook**, and the repository also includes recommendations based on the analysis.
+This repository contains a comprehensive dataset and Python-based analysis for Netflix series and movies. The project focuses on exploring, analyzing, and generating insights from Netflix's content library.
 
 ## Table of Contents
 
@@ -30,9 +30,8 @@ The **Netflix Data Files** repository provides a structured approach to understa
 - Rating
 - Duration
 - Description
-- Type
 
-Using Python, the data is processed and analyzed to uncover patterns, trends, and insights. Additionally, machine learning algorithms are used to generate personalized recommendations and analytics which can be used for industrial practices and strategies.
+Using Python, the data is processed and analyzed to uncover patterns, trends, and insights. Additionally, machine learning algorithms are used to generate personalized recommendations and analytics.
 
 ## Features
 
@@ -51,47 +50,47 @@ Using Python, the data is processed and analyzed to uncover patterns, trends, an
 
 ## Technologies Used
 
-  - **Python**
-  - **Pandas**
-  - **NumPy**
-  - **Matplotlib**
-  - **Seaborn**
-  - **Scikit-learn**
-  - **Jupyter Notebook**
-  - **CSV Data Files**
+- **Python**
+- **Pandas**
+- **NumPy**
+- **Matplotlib**
+- **Seaborn**
+- **Scikit-learn**
+- **Jupyter Notebook**
+- **CSV Data Files**
 
 ## Installation
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/paarthbhatt/netflix-data-files.git
-   ```
+    ```bash
+    git clone https://github.com/paarthbhatt/netflix-data-files.git
+    ```
 
 2. Navigate to the project directory:
 
-   ```bash
-   cd netflix-data-files
-   ```
+    ```bash
+    cd netflix-data-files
+    ```
 
 3. Set up a virtual environment (optional):
 
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   ```
+    ```bash
+    python -m venv venv
+    source venv/bin/activate  # On Windows: venv\Scripts\activate
+    ```
 
 4. Install the required dependencies:
 
-   ```bash
-   pip install -r requirements.txt
-   ```
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 5. Launch Jupyter Notebook:
 
-   ```bash
-   jupyter notebook
-   ```
+    ```bash
+    jupyter notebook
+    ```
 
 6. Open the provided notebook file and start exploring the analysis.
 
@@ -122,7 +121,7 @@ The dataset includes the following key columns:
 
 ## Recommendations
 
-The project includes a recommendation system that suggests Netflix titles based on user preferences and viewing history. Recommendations are generated using collaborative filtering and similarity-based techniques.
+The project includes a recommendation system that suggests Netflix titles based on user preferences and viewing history. Recommendations are generated using collaborative filtering and similarity algorithms.
 
 ## Project Structure
 
@@ -144,21 +143,21 @@ Contributions are welcome! Follow these steps:
 1. Fork the repository.
 2. Create a new branch:
 
-   ```bash
-   git checkout -b feature-name
-   ```
+    ```bash
+    git checkout -b feature-name
+    ```
 
 3. Commit your changes:
 
-   ```bash
-   git commit -m "Description of changes"
-   ```
+    ```bash
+    git commit -m "Description of changes"
+    ```
 
 4. Push to the branch:
 
-   ```bash
-   git push origin feature-name
-   ```
+    ```bash
+    git push origin feature-name
+    ```
 
 5. Submit a pull request.
 
